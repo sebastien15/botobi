@@ -1,0 +1,27 @@
+._Group_ {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 893px;
+    z-index: 29;
+  }
+  ._Group_ {
+    background-image: url("<Group>.png");
+    position: absolute;
+    left: 917px;
+    top: 426px;
+    width: 16px;
+    height: 11px;
+    z-index: 28;
+  }
+  ._Ellipse_ {
+    background-image: url("<Ellipse>.png");
+    position: absolute;
+    left: 912px;
+    top: 419px;
+    width: 26px;
+    height: 25px;
+    z-index: 27;
+  }
+  
